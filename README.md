@@ -5,7 +5,7 @@ Start  with the programming language C. First usage of:
 - user defined types;
 - structs;
 - assert();
-including ADT:
+\n including ADT:
 - stack : cards;
 - queue : self programmed queue;
 - list : basic example;
